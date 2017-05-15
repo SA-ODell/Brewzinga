@@ -4,7 +4,7 @@ Brewzinga! is a web application that recommends beers based on an event or the u
 
 Link to website deployed site: [http://brewzinga.surge.sh/](http://brewzinga.surge.sh/)
 
-![alt text](https://github.com/bradefting/Brewzinga/blob/master/img/Brewzinga-readMe.png?raw=true)
+![alt text](https://github.com/bradefting/Brewzinga/blob/master/img/Brewzinga-readMe.jpg)
 
 ### Features
 
