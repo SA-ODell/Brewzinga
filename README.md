@@ -2,7 +2,7 @@
 
 Brewzinga! is a web application that recommends beers based on an event or the user's local weather using Weather Underground API and BreweryDB API. It's a single-page app that also displays local breweries using AJAX and jQuery.
 
-Link to website deployed site: [http://brewzinga.surge.sh/](http://brewzinga.surge.sh/)
+Link to deployed site: [http://brewzinga.surge.sh/](http://brewzinga.surge.sh/)
 
 ![alt text](https://github.com/bradefting/Brewzinga/blob/master/img/Brewzinga-readMe.jpg)
 
